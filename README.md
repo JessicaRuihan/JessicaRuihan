@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ruihan(Jessica)
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis and Finance
 - 🌱 I’m currently learning Python, completed training on SQL
 - 💞️ I’m looking to collaborate on Python and SQL
 - 📫 How to reach me https://www.linkedin.com/in/ruihan-guo-941040215/
